@@ -1,2 +1,20 @@
-# CRUD-app.-Database-of-your-favourite-movies
-CRUD app. writing in JavaScrpit - jQuery  /  JSON Server
+# JavaScript jQuery CRUD App using AJAX JSON
+
+CRUD app. Database of your favourite movies.
+
+
+JS, AJAX/JSON server practice. 
+
+
+## Technologies
+* HTML5
+* CSS
+* JavaScript
+* AJAX
+* JSON server
+
+
+
+## Setup
+To use this app. you have to instal JSON server on your computer.
+
