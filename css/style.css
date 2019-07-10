@@ -61,7 +61,6 @@ body {
 
 .movie-list input {
     display: block;
-    box-sizing: border-box;
     border: 1px solid #aaa;
     margin-bottom: 2px;
     width: calc(100% - 20px);
