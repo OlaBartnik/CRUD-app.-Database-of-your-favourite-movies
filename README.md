@@ -18,7 +18,7 @@ JS, AJAX/JSON server practice.
 ## Setup
 To run this app. you have to instal JSON server on your computer.
 
-![video](Video_2019-07-10_014753.wmv)
+![layout](layout.png)
 
 
 
