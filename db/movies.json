@@ -1,4 +1,3 @@
-
 {
   "movies": [
     {
@@ -6,13 +5,11 @@
       "title": "Życie Pi",
       "description": "Podczas morskiej podróży z Indii do Kanady tonie statek. Nastoletniemu Pi udaje się przetrwać na niewielkiej łodzi."
     },
-
     {
       "id": 2,
       "title": "Ojciec chrzestny",
       "description": "Opowieść o nowojorskiej rodzinie mafijnej. Starzejący się Don Corleone pragnie przekazać władzę swojemu synowi."
     },
-
     {
       "id": 3,
       "title": "Lista Schindlera",
