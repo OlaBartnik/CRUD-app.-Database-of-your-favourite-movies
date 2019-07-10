@@ -8,7 +8,8 @@ body {
 
     font-family: sans-serif;
     background-image: url("../images/646304-POQ2CC-102.jpg");
-    background-size: contain;
+    background-size: cover;
+    background-position: bottom 50% center;
     background-attachment: fixed;
 
 }
@@ -208,14 +209,4 @@ textarea.form-control {
 }
 
 
-footer {
-    width: 100%;
-    text-align: right;
 
-}
-
-footer a {
-     color: #ddd;
-    font-size: 8px;
-    text-decoration: none;
-}
