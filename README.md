@@ -19,7 +19,7 @@ Background photo created by freepik - www.freepik.com
 ## Setup
 To run this app. you have to instal JSON server on your computer.
 
-![layout](layout.png)
+![layout](screenshot.png)
 ![video](Video_2019-07-10_114346.wmv)
 
 
